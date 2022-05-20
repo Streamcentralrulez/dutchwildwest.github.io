@@ -1,9 +1,16 @@
 site_name: Dutch Wild West
 theme:
   name: material
+  language: nl
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
+    primary: black
 nav:
-  - Introduction: "index.md"
-  - Tutorial:
-    - Tutorial Subsection: "pages/help/test.md"
-  - About: "pages/test1.md"
-  - FAQ: "pages/test2.md"
+  - Home: "index.md"
+  - Inleiding: "inleiding.md"
+  - Algemene Regels: "algemeneregels.md"
+  - Strafbepaling: "strafbepaling.md"
+  - Algemene Plaatselijke Verordening: "apv.md"
+extra_css:
+  - stylesheets/extra.css
