@@ -1,0 +1,9 @@
+site_name: Dutch Wild West
+theme:
+  name: material
+nav:
+  - Introduction: "index.md"
+  - Tutorial:
+    - Tutorial Subsection: "pages/help/test.md"
+  - About: "pages/test1.md"
+  - FAQ: "pages/test2.md"
