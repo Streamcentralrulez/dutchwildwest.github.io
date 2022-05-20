@@ -7,8 +7,9 @@ theme:
   palette:
     primary: black
 nav:
-  - Algemene Plaatselijke Verordening: "index.md"
-  - //:
-    - Tutorial Subsection: "pages/help/test.md"
-  - //: "pages/test1.md"
-  - //: "pages/test2.md"
+  - Home: "index.md"
+  - Inleiding: "inleiding.md"
+  - Strafbepaling: "strafbepaling.md"
+  - Algemene Plaatselijke Verordening: "apv.md"
+extra_css:
+  - stylesheets/extra.css
