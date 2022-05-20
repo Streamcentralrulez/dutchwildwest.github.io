@@ -1,6 +1,6 @@
 1. Algemene Regels
 2. De Strafbepalingen
-3. Aanvullende Regels
+3. De uitgebreide algemene regels
 4. Overvallen en Oplichten
     - 4.1 Burgers ontvoeren/overvallen
     - 4.2 Winkeloverval

@@ -9,6 +9,7 @@ theme:
 nav:
   - Home: "index.md"
   - Inleiding: "inleiding.md"
+  - Algemene Regels: "algemeneregels.md"
   - Strafbepaling: "strafbepaling.md"
   - Algemene Plaatselijke Verordening: "apv.md"
 extra_css:
